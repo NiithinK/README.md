@@ -1,4 +1,5 @@
 👋 Hi! I'm Nithin K
+
 I'm a Frontend Developer, with a strong focus on React stack.
 I have a solid foundation in frontend technologies
 and emerging tech tools and love contributing to innovative projects.
